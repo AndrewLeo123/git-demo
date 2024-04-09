@@ -31,3 +31,4 @@ int main()
 
   return 0;
 }
+辟邪剑谱果然厉害！
